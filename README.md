@@ -1,5 +1,10 @@
 # 🧱 StrengthCast — Concrete Strength Predictor
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://adityajare-strengthcast-main-sewv1x.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://adityajare-strengthcast-main-sewv1x.streamlit.app/)
+
+> 🌐 **Live Demo:** Try the app online at **[adityajare-strengthcast-main-sewv1x.streamlit.app](https://adityajare-strengthcast-main-sewv1x.streamlit.app/)**
+
 An intelligent concrete compressive strength prediction web application that estimates the strength of concrete based on its mix composition. The machine learning model, data preprocessing, and training pipeline were built entirely from scratch.
 
 ## 📖 Overview
@@ -62,7 +67,16 @@ XGBoost outperformed Linear Regression by **~30 points in R²**, confirming that
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 🌐 Live Web App
+
+Try the deployed application directly in your browser without any local setup:
+👉 **[StrengthCast Live Demo](https://adityajare-strengthcast-main-sewv1x.streamlit.app/)**
+
+---
+
+### Local Setup
+
+#### Prerequisites
 
 - Python 3.12+
 - [uv](https://docs.astral.sh/uv/) (recommended) or pip
