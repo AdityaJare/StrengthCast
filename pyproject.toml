@@ -1,0 +1,12 @@
+[project]
+name = "Concrete_Mix_Strength_Estimator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
+    "streamlit>=1.64.0",
+    "xgboost>=3.4.1",
+]
